@@ -1,0 +1,85 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    line-height: 60px; /* Vertically center the text there */
+    background-color: #000000;
+}
+
+
+body{
+    color: #00c7c1;
+    /*background: #270000 url(http://wallpapercave.com/wp/CRNi5jm.jpg);*/
+    /*background: #270000 url(http://i670.photobucket.com/albums/vv68/Calixte/dark-forest-night-image.jpg);*/
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-bottom: 60px;
+}
+
+input{
+    color: #00c7c1;
+    background-color: #000000;
+}
+
+#chat_area{
+    background-color: rgba(0, 0, 0, 0.80);
+    padding:10px;
+    min-height:300px;
+    max-height:400px;
+    overflow-y: auto;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    margin-bottom:5px;
+}
+
+#connector{
+    margin-top:100px;
+}
+
+.display-none{
+    display:none;
+}
+
+.user{
+    cursor: pointer;
+}
+
+#userz{
+    background-color: rgba(5, 38, 42, 0.85);
+}
+#onlinerz{
+    background-color: rgba(5, 38, 42, 0.85);
+}
+
+.user-data{
+    display:inline-block;
+    padding:5px;
+    border: 1px solid #7cf2ff;
+    background-color: #05262a;
+    min-width:150px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    text-align: center;
+    margin: 3px 3px;
+}
+
+#admin_info_2{
+    margin-top: 20px;
+}
+
+.online-row{
+    border-bottom: 1px solid #0d6a77;
+    border-right: 1px solid #0d6a77;
+    border-left: 1px solid #0d6a77;
+}
