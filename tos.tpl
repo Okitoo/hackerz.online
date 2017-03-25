@@ -1,4 +1,4 @@
-{{ define "title" }}Terms Of Service and privacy policy{{ end }}
+{{ define "title" }}Terms of Service and Privacy Policy{{ end }}
 
 {{ define "content" }}
 <div class="container">
@@ -15,7 +15,7 @@
             6. Payment and refund policy<br>
             7. Privacy Policy<br>
             8. Cheating<br>
-            9. Toxic behaviour:<br>
+            9. Toxic behavior:<br>
             <br>
             Applicable Terms<br>
             The following terms refer to the Android Application (Hackers - Hacking simulator) found on Google Play Store:<br>
@@ -82,8 +82,8 @@
             - Using of bots and/or macros is prohibited. any automated game-play will have your account reputation reset, or your account permanently deleted wihtout any warning.<br>
             - Discovering any exploit in the game and not reporting it immediately will result in deletion of your account without any warning.<br>
             <br>
-            9. Toxic behaviour:<br>
-            - Toxic behaviour and racism will result in banning you from the chat room temporarily or permanently, and might result in losing access to your account.<br>
+            9. Toxic behavior:<br>
+            - Toxic behavior and racism will result in banning you from the chat room temporarily or permanently, and might result in losing access to your account.<br>
             - Any attempt to scare the players or steer them away from the game will NOT be tolerated.<br>
             - Any attempt to spam, scam and/or phish the players will not be tolerated.<br>
             - The moderators have the right to ban you from the chat as they see fit. The chat room have rules which you must follow.<br>
