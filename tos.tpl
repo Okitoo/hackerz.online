@@ -6,16 +6,16 @@
         <div class="col-md-12">
             Terms of Service<br>
             <br>
-            Table of contents<br>
+            Table of Contents<br>
             1. Introduction<br>
-            2. Installation & registration<br>
-            3. Account information<br>
+            2. Installation and Registration<br>
+            3. Account Information<br>
             4. Safety<br>
             5. Content<br>
-            6. Payment and refund policy<br>
+            6. Payment and Refund Policy<br>
             7. Privacy Policy<br>
             8. Cheating<br>
-            9. Toxic behavior:<br>
+            9. Toxic Behavior:<br>
             <br>
             Applicable Terms<br>
             The following terms refer to the Android Application (Hackers - Hacking simulator) found on Google Play Store:<br>
