@@ -40,6 +40,7 @@
     <div class="container">
         {{ template "footer" .}}
         <a href="/tos/">Terms of service and privacy policy</a>
+        <a href="/tac/">Terms and Conditions</a>
     </div>
 </footer>
 
