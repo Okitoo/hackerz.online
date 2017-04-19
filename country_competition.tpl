@@ -6,7 +6,6 @@
             <div class="col-xs-12 text-center">
 
                 Top countries by average collected HackCoins per hacker!<br>
-                - Only HC stolen from another country is counted!<br>
 
                 <table class="table table-striped">
                     <thead>
