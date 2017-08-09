@@ -55,7 +55,7 @@
                             <a href="https://discordapp.com/channels/269150030965768193/269150030965768193">German Discord Community (Non-Official)</a>
                         </div>
 			<div class="col-md-4 text-center">
-				<a href="http://dash.org" target="_blank"><img src="dash_heart_normal.png" style="width:60px;><br>Dash Accepted</a>
+				<a href="http://dash.org" target="_blank"><img src="/public/img/dash_heart_normal.png" style="width:60px;"><br>Dash Accepted</a>
                     </div>
                 </div>
             </div>
