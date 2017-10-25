@@ -45,15 +45,17 @@
                 </div>
                 <div class="panel-body">
                     <div class="row">
-                        <div class="col-md-6">
+                        <div class="col-md-4">
                             <a href="https://twitter.com/OkitooHackers">Twitter</a><br>
                             <a href="https://www.facebook.com/hackerzOnline/">Facebook</a><br>
                             <a href="https://t.me/hackerzOnline">Telegram</a><br><br><br>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-4">
                             <a href="http://forum.hackerz.online">Official Hackerz Online Forum</a><br>
                             <a href="https://discordapp.com/channels/269150030965768193/269150030965768193">German Discord Community (Non-Official)</a>
                         </div>
+			<div class="col-md-4 text-center">
+				<a href="http://dash.org" target="_blank"><img src="/public/img/dash_heart_normal.png" style="width:60px;"><br>Dash Accepted</a>
                     </div>
                 </div>
             </div>
