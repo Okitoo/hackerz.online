@@ -12,11 +12,11 @@
     <div class="row">
         <div class="col-xs-12">
             <ul>
-                <li>1st place 1000bb</li>
+                <li>1st place 1250bb</li>
                 <li>2nd place 500bb</li>
                 <li>3rd place 250bb</li>
-                <li>4th-100th place 100bb</li>
-                <li>101th-500th place 50bb</li>
+                <li>4th-10th place 100bb</li>
+                <li>11th-40th place 50bb</li>
             </ul>
             <br>
             Top Hackers:
