@@ -12,24 +12,22 @@
 </head>
 <body>
 
-<nav class="navbar navbar-default">
-    <div class="container-fluid">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
+<nav class="navbar navbar-toggleable-md navbar-inverse bg-inverse mb-4">
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <a class="navbar-brand" href="/"><img style="width:38px;display:inline-block" src="/public/img/web_logo.png"> Hackerz Online</a>
+    <div class="collapse navbar-collapse" id="navbarCollapse">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="/">Home |</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/buy">Get BBs </a>
+            </li>
+        </ul>
 
-            <a class="navbar-brand" href="/"><img style="width:38px;display:inline-block" src="/public/img/web_logo.png"> Hackerz Online</a>
-        </div>
-
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-        </div><!-- /.navbar-collapse -->
-    </div><!-- /.container-fluid -->
+    </div>
 </nav>
 
 {{ template "content" .}}
@@ -39,8 +37,16 @@
 <footer class="footer">
     <div class="container">
         {{ template "footer" .}}
-        <a href="/tos/">Terms of service and privacy policy</a>
-        <a href="/tac/">Terms and Conditions</a>
+        <hr>
+        <div class="row">
+            <div class="col-md-6">
+                <a href="/tos/">Terms of service and privacy policy</a><br>
+            </div>
+            <div class="col-md-6">
+                <a href="/tac/">Terms and Conditions</a><br>
+            </div>
+        </div>
+        DASH: <a href="https://chainz.cryptoid.info/dash/address.dws?Xq3xyLX7KEwr7AXqi9jNfTCDTgfBGXmNQj.htm">Xq3xyLX7KEwr7AXqi9jNfTCDTgfBGXmNQj</a>
     </div>
 </footer>
 

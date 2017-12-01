@@ -2,12 +2,12 @@
 
 {{ define "content" }}
 <div class="container">
-    Special thanks for:
-    Moderators
-    Country Moderators
-    Social Management Team + roles
-    Technial Team + roles
-    Translators
+    Special thanks to:<br><br>
+    Moderators<br>
+    Country Moderators<br>
+    Social Management Team + roles<br>
+    Technial Team + roles<br>
+    Translators<br>
 </div>
 {{ end }}
 

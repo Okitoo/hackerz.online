@@ -33,13 +33,13 @@
             The terms "we" or "us" or "developer" or "developers" refer to one or more of the following: the developer(s), the owner(s), the moderator(s), and/or the staff.<br>
             Note: Ownership lies with the “owner(s).” No other party listed has or posses ownership except by formal documentation.<br>
             <br>
-            The terms “BlackBit(s)” or “BB(s)” and “HackCoin(s)” or “HC” are referred to as the in-game-currency. and might be changed prior to the full relese.<br>
+            The terms “BlackBit(s)” or “BB(s)” and “HackCoin(s)” or “HC” are referred to as the in-game-currency. and might be changed with or without prior notice<br>
             <br>
             <br>
             Please read carefully. By Installing, playing, or using this app, you agree to the following terms and conditions set forth herein. If you do not understand or do not accept any part of the terms or conditions, then you must not use the game or any other product or service offered by the owner(s).
             <br><br>
             1. Introduction<br>
-            Thanks for playing "Hackers". This is a Massive Multiplayer Online game (MMO). All tools, theory, and hacking simulations are believed to be fiction (Not Real) and do not apply to real hacking except for certain terminology. We do not condone hacking, cracking, phreaking, stealing, or any other illegal activities. If any one entity, person, place, and/or thing is caught in or discussing illegal activities, YOU WILL BE REPORTED TO THE YOUR LOCAL AUTHORITIES.
+            Thanks for playing "Hackers". This is a Massive Multiplayer Online game (MMO). All tools, theory, and hacking simulations are believed to be fiction (Not Real) and do not apply to real hacking except for certain terminology. We do not condone hacking, cracking, phreaking, stealing, or any other illegal activities. If any one entity, person, place, and/or thing is caught in or discussing illegal activities, YOU WILL BE REPORTED TO THE YOUR LOCAL AUTHORITIES, and/or lose access to your account.
             <br>
             2.Advertising:<br>
             You cannot and will not advertise/post/display any content WITHOUT the owner(s) consent. No one EXCEPT the owner can authorize this. If you do gain permission to advertise, do not spam the content. Your permission can be revoked at any time for whatever reason.<br>
@@ -96,7 +96,7 @@
             - We do not collect any private information from your device, at all.<br>
             <br>
             9. Cheating:<br>
-            - Using of bots and/or macros is prohibited. any automated game-play will have your account reputation reset, or your account permanently deleted wihtout any warning.<br>
+            - Using of bots and/or macros is prohibited. any automated game-play will have your account reputation reset, or your account permanently deleted without any warning.<br>
             - Discovering any exploit in the game and not reporting it immediately will result in deletion of your account without any warning.<br>
             <br>
             10. Toxic behavior:<br>

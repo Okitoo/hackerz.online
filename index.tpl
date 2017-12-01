@@ -10,13 +10,16 @@
             </div>
             <div class="panel-body">
                 <div class="row">
-                    <div class="col-md-8">
+                    <div class="col-md-6">
                         Massive multiplayer online hacking simulator for Android.<br>
                         Join hundreds of thousands of players in this virtual world of hackers! Hack each other, create allies ,build a guild and infiltrate corporations and high political targets and more coming!<br>
                         <a href="https://play.google.com/store/apps/details?id=net.okitoo.hackers">Download game now!</a><br>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-3">
                         <a href="https://play.google.com/store/apps/details?id=net.okitoo.hackers"><img class="img-thumbnail" src="/public/img/google-play-badge.png"></a>
+                    </div>
+                    <div class="col-md-3">
+                        <a href="https://www.amazon.com/product-reviews/B077FZMRL3/"><img class="img-thumbnail" src="/public/img/amazon-store-icon.png"></a>
                     </div>
                 </div>
             </div>
@@ -32,8 +35,7 @@
             <a class="twitter-timeline" data-height="400" data-dnt="true" data-theme="dark" href="https://twitter.com/OkitooHackers">Tweets by OkitooHackers</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
         </div>
         <div class="col-md-8 text-center">
-                <img src="/public/img/ss1.png" class="img-thumbnail">
-
+            <img src="/public/img/ss1.png" class="img-thumbnail">
         </div>
     </div>
     <hr>
